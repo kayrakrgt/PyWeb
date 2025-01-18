@@ -12,3 +12,8 @@ Python kullanılarak bir sitedeki uzantıları kontrol eder. Checking files in a
   <li>Later asks you, your wanted file extensions you search for(e.g. : html,php,js,png,jpg)</li>
   <li>"After entering the extension, it tries all the words in the wordlist by appending them to the end of the URL. (Example: http://www.example.com/admin.php)"</li>
 </ul>
+
+<img src="Ekran görüntüsü 2025-01-18 172231.png">
+<img src="Ekran görüntüsü 2025-01-18 172624.png">
+<img src="Ekran görüntüsü 2025-01-18 172706.png">
+<img src="Ekran görüntüsü 2025-01-18 172731.png">
