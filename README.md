@@ -3,7 +3,7 @@ Python kullanılarak bir sitedeki uzantıları kontrol eder. Checking files in a
 
 <ul>
   <li>Dosyayı çalıştırdığınız vakit sizden bir website urlsi ister.</li>
-  <li>Urlyi yazdığınıda bir wordlist ister.</li>
+  <li>Urlyi yazdığınızda bir wordlist ister.</li>
   <li>Daha sonra aramak istediğiniz uzantılar istenir(örnek=html,php,js,png,jpg)</li>
   <li>Uzantıyı da girdikten sonra wordlist içersindeki tüm kelimeleri urlnin sonunda koyarak dener.(Örnek::: http://www.ornekwebsite.com/admin.php) </li>
 
